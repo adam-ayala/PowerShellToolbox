@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-<!-- Enter a synopsis -->
+A synopsis
 
 ## Description
 

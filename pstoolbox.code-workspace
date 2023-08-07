@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
+		"powershell.codeFormatting.preset": "Stroustrup",
+		"peacock.color": "#4287f5",
+		"workbench.colorCustomizations": {
+			"statusBar.background": "#4287f5",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#72a6f8",
+			"statusBarItem.remoteBackground": "#4287f5",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"sash.hoverBorder": "#72a6f8"
+		},
+		"peacock.affectStatusBar": true,
+		"peacock.affectTitleBar": false,
+		"peacock.affectSashHover": true,
+		"peacock.affectActivityBar": false
+	}
+}

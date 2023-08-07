@@ -24,8 +24,8 @@
     "windows": {
         "options": {
             "shell": {
-                // "executable": "powershell.exe",
-                "executable": "pwsh.exe",
+                "executable": "powershell.exe",
+                // "executable": "pwsh.exe",
                 "args": [
                     "-NoProfile",
                     "-ExecutionPolicy",
